@@ -1,0 +1,15 @@
+.attribution { font-size: 11px; text-align: center; }
+    .attribution a { color: hsl(228, 45%, 44%); }
+
+
+    body{
+        background-image:linear-gradient(rgba(131, 91, 249, 0.8),rgba(131, 91, 249, 0.8)), url(./images/bg-desktop.svg);
+
+
+
+    }
+
+    section{
+        background-image: url(./images/illustration-mockups.svg);
+        background-size: cover;
+    }
