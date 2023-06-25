@@ -58,11 +58,21 @@ button{
     padding: 1vw 2vw;
 border-radius: 20px;
 border: none;
+cursor: pointer;
+background-color: rgba(240, 248, 255, 0.868);
 
 }
 
+button:hover{
+    background-color: rgb(255, 255, 255);
+}
+
 .fa-facebook, .fa-instagram, .fa-twitter{
-    color:white;
+    color:rgb(18, 83, 246);
+}
+
+.fa-facebook:hover, .fa-instagram:hover, .fa-twitter:hover{
+    color:rgb(255, 255, 255);
 }
 
 
