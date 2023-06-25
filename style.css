@@ -85,3 +85,22 @@ footer{
 
 
 }
+
+
+
+
+@media all and (max-width:1120px) {
+    footer{
+        margin-top: 4vw;
+        scale: 2;
+    }
+
+    body{
+        height: 150vh;
+    }
+
+    .image{
+        scale: .75;
+        padding: 2vw 5vw;
+    }
+}
