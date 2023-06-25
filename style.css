@@ -35,14 +35,30 @@ html {
 }
 
 h2 {
+    font-size: xx-large;
     top: 30%;
   font-family: "Poppins", sans-serif;
   font-weight: 600;
+ position: relative;
+ top: 10%;
+ padding: 5vw;
+
 }
 
 p {
   font-family: "Open Sans", sans-serif;
   font-weight: 400;
+  top: 10%;
+  padding: 2vw 5vw;
+}
+
+button{
+    font-size: 20px;
+    margin-left: 5vw;
+    padding: 1vw 2vw;
+border-radius: 20px;
+border: none;
+
 }
 
 .fa-facebook, .fa-instagram, .fa-twitter{
