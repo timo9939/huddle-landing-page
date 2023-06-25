@@ -9,7 +9,14 @@
 
     }
 
-    section{
-        background-image: url(./images/illustration-mockups.svg);
-        background-size: cover;
-    }
+.big-section{
+    display: inline-flex;
+}
+
+.image{
+    width: 60%;
+}
+
+.small-section{
+    flex: block;
+}
